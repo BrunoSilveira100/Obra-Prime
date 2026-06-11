@@ -1,6 +1,6 @@
 # Obra Prime Web
 
-Plataforma web para gestao operacional de obras da construcao civil, criada para centralizar obras, ordens de servico, fotos, relatorios, usuarios, historico e indicadores gerenciais.
+Plataforma web para gestão de obras, ordens de serviço, registros fotográficos e indicadores operacionais da construção civil. 🚧📊🏗️
 
 O projeto segue desenvolvimento orientado por especificacao. A documentacao do produto, arquitetura, backlog, casos de uso, modelo de dados e roadmap ficam em `.specs/features/obra-prime-web`.
 
